@@ -41,5 +41,5 @@ screenshots:
   - path: .camp/screenshots/markdown-logo.png
     caption: Markdown logo (by Dustin Curtis, CC0, via Wikimedia Commons)
 links:
-  docs: https://github.com/mudrd8mz/moodle-editor_marklar/blob/main/README.md
-  issues: https://github.com/mudrd8mz/moodle-editor_marklar/issues
+  docs: https://github.com/bfh/moodle-editor_marklar/blob/main/README.md
+  issues: https://github.com/bfh/moodle-editor_marklar/issues
